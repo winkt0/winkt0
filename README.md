@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winkt0&" alt="winkt0" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winkt0&show_icons=true&locale=en&layout=compact" alt="winkt0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winkt0" alt="winkt0" /></p>
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=winkt0&hide_rank=true" alt="winkt0" /></p>
