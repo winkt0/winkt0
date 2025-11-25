@@ -30,14 +30,14 @@
 </details>
 
 <details open> 
-  <summary><h2>🛠️ Tools I've used </h2></summary>
+  <summary><h2>🛠️ Tech Stack</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages </h3>
 
   <p>
       <a href="https://github.com/search?q=user%3Awinkt0+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/-Rust-3776AB?style=flat&logo=rust"></a>
-      <a href="https://github.com/search?q=user%3Awinkt0+language%3Adart"><img alt="Rust" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Awinkt0+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Awinkt0+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Awinkt0+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Awinkt0+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
