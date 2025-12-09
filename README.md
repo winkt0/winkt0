@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I'm%20winkt0.;I%20like%20make%20computer%20do%20stuff%20:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I'm%20winkt0.;I%20like%20make%20computer%20do%thing%20:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <br/>
@@ -14,6 +14,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/winkt0/yin_rs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=winkt0&repo=yin_rs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="yin_rs"></a>
+    <a href="https://github.com/winkt0/biggest"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=winkt0&repo=biggest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="biggest"></a>
     <a href="https://github.com/winkt0/anyTeX"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=winkt0&repo=anyTeX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="anyTeX"></a>
   </p>
 
