@@ -13,9 +13,9 @@
 
   <table align="center">
     <p align="left" dir="auto">
-      <a href="https://github.com/winkt0/yin_rs"><img width="278" src="./profile/yin-card.svg" alt="yin_rs"></a>
-      <a href="https://github.com/winkt0/biggest"><img width="278" src="./profile/biggest-card.svg" alt="biggest"></a>
-      <a href="https://github.com/winkt0/anyTeX"><img width="278" src="./profile/anyTeX-card.svg" alt="anyTeX"></a>
+      <a href="https://github.com/winkt0/yin_rs"><img width="250" height="100" src="./profile/yin-card.svg" alt="yin_rs"></a>
+      <a href="https://github.com/winkt0/biggest"><img width="250" height="100" src="./profile/biggest-card.svg" alt="biggest"></a>
+      <a href="https://github.com/winkt0/anyTeX"><img width="250" height="100" src="./profile/anyTeX-card.svg" alt="anyTeX"></a>
     </tr>
   </table>
 
@@ -27,8 +27,8 @@
 
   <table align="center">
     <p align="left" dir="auto">
-        <a href="https://github.com/TheAlgorithms/Rust"><img width="278" src="./profile/rust-algos-card.svg" alt="TheAlgorithms/Rust"></a>
-        <a href="https://github.com/imi-ms/MoPat"><img width="278" src="./profile/mopat-card.svg" alt="imi-ms/MoPat"></a>
+        <a href="https://github.com/TheAlgorithms/Rust"><img width="250" height="100" src="./profile/rust-algos-card.svg" alt="TheAlgorithms/Rust"></a>
+        <a href="https://github.com/imi-ms/MoPat"><img width="250" height="100" src="./profile/mopat-card.svg" alt="imi-ms/MoPat"></a>
     </p>
   </table>
 </details>
