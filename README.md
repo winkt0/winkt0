@@ -80,8 +80,7 @@
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-
-  ![Stats](./profile/stats.svg)
+  
   ![Top Languages](./profile/top-langs.svg)
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
