@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=winkt0&repo=yin_rs&theme=react&show_icons=true&theme=radical
+          options: username=winkt0&repo=yin_rs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
           path: profile/yin-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=winkt0&repo=biggest&theme=react&show_icons=true&theme=radical
+          options: username=winkt0&repo=biggest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
           path: profile/biggest-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
@@ -51,7 +51,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=winkt0&repo=anyTeX&theme=react&show_icons=true&theme=radical
+          options: username=winkt0&repo=anyTeX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
           path: profile/anyTeX-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -59,7 +59,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=TheAlgorithms&repo=rust&theme=react&show_icons=true&theme=radical
+          options: username=TheAlgorithms&repo=rust&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
           path: profile/rust-algos-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -67,7 +67,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=imi-ms&repo=MoPat&theme=react&show_icons=true&theme=radical
+          options: username=imi-ms&repo=MoPat&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
           path: profile/mopat-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

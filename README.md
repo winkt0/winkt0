@@ -12,16 +12,10 @@
   <summary><h2>📘 My Projects</h2></summary>
 
   <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/winkt0/yin_rs"><img width="278" src="./profile/yin-card.svg" alt="yin_rs"></a>
-      </td>
-      <td>
-        <a href="https://github.com/winkt0/biggest"><img width="278" src="./profile/biggest-card.svg" alt="biggest"></a>
-      </td>
-      <td>
-        <a href="https://github.com/winkt0/anyTeX"><img width="278" src="./profile/anyTeX-card.svg" alt="anyTeX"></a>
-      </td>
+    <p align="left" dir="auto">
+      <a href="https://github.com/winkt0/yin_rs"><img width="278" src="./profile/yin-card.svg" alt="yin_rs"></a>
+      <a href="https://github.com/winkt0/biggest"><img width="278" src="./profile/biggest-card.svg" alt="biggest"></a>
+      <a href="https://github.com/winkt0/anyTeX"><img width="278" src="./profile/anyTeX-card.svg" alt="anyTeX"></a>
     </tr>
   </table>
 
@@ -32,14 +26,10 @@
   <summary><h2>📕 Projects I've Contributed To</h2></summary>
 
   <table align="center">
-    <tr>
-      <td>
+    <p align="left" dir="auto">
         <a href="https://github.com/TheAlgorithms/Rust"><img width="278" src="./profile/rust-algos-card.svg" alt="TheAlgorithms/Rust"></a>
-      </td>
-      <td>
         <a href="https://github.com/imi-ms/MoPat"><img width="278" src="./profile/mopat-card.svg" alt="imi-ms/MoPat"></a>
-      </td>
-    </tr>
+    </p>
   </table>
 </details>
 
