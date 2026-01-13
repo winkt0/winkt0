@@ -14,13 +14,13 @@
   <table align="center">
     <tr>
       <td>
-        <a href="https://github.com/winkt0/yin_rs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=winkt0&repo=yin_rs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="yin_rs"></a>
+        <a href="https://github.com/winkt0/yin_rs"><img width="278" src="./profile/yin-card.svg" alt="yin_rs"></a>
       </td>
       <td>
-        <a href="https://github.com/winkt0/biggest"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=winkt0&repo=biggest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="biggest"></a>
+        <a href="https://github.com/winkt0/biggest"><img width="278" src="./profile/biggest-card.svg" alt="biggest"></a>
       </td>
       <td>
-        <a href="https://github.com/winkt0/anyTeX"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=winkt0&repo=anyTeX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="anyTeX"></a>
+        <a href="https://github.com/winkt0/anyTeX"><img width="278" src="./profile/anyTeX-card.svg" alt="anyTeX"></a>
       </td>
     </tr>
   </table>
@@ -34,10 +34,10 @@
   <table align="center">
     <tr>
       <td>
-        <a href="https://github.com/TheAlgorithms/Rust"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Rust&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+        <a href="https://github.com/TheAlgorithms/Rust"><img width="278" src="./profile/rust-algos-card.svg" alt="TheAlgorithms/Rust"></a>
       </td>
       <td>
-        <a href="https://github.com/imi-ms/MoPat"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=imi-ms&repo=MoPat&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+        <a href="https://github.com/imi-ms/MoPat"><img width="278" src="./profile/mopat-card.svg" alt="imi-ms/MoPat"></a>
       </td>
     </tr>
   </table>
@@ -76,28 +76,19 @@
 
   <h3>🔥 Streak Stats</h3>
   <p>
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=winkt0&theme=cyber-streakglow&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="http://streak-stats.demolab.com?user=winkt0&theme=cyber-streakglow&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="winkt0's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=winkt0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="winkt0's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=winkt0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="winkt0's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=winkt0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<!--END_SECTION:activity-->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="winkt0's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=winkt0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=winkt0&hide_rank=true" alt="winkt0" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lohl&label=Profile%20views&color=0e75b6&style=flat" alt="lohl" /> </p>
--->
 
 
 <!--
