@@ -65,9 +65,8 @@
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-  <p>
-    <a href="https://git.io/streak-stats"><img src="http://streak-stats.demolab.com?user=winkt0&theme=cyber-streakglow&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-  </p>
+  
+  ![Streak](./profile/streak.svg)
 
   <h3>💻 GitHub Profile Stats</h3>
   
