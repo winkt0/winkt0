@@ -65,6 +65,14 @@ jobs:
           path: profile/anyTeX-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate fcard card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=winkt0&repo=fcard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          path: profile/fcard-card.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate Rust algos card
         uses: readme-tools/github-readme-stats-action@v1
         with:
