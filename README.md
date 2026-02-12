@@ -6,6 +6,10 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I'm%20winkt0.;I%20like%20make%20computer%20do%20thing%20:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+I learned to code by dabbling in online courses, my first language being Python. Went on to get a STEM degree and now I'm here. I believe that meaning is found by paying attention to detail, and that's what programming is all about - thinking deeply about something.
+
+I also like to play chess and some instruments, cook, do powerlifting, go hiking and read :)
+
 <br/>
 
 <details open> 
