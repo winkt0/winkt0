@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="89.99"
+          width="79.23"
           height="8"
           fill="#00B4AB"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="89.99"
+          x="79.23"
           y="0"
-          width="64.56"
+          width="56.84"
           height="8"
           fill="#f34b7d"
         />
@@ -148,9 +148,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="154.55"
+          x="136.07"
           y="0"
-          width="39.04"
+          width="40.57"
+          height="8"
+          fill="#3178c6"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="176.64"
+          y="0"
+          width="34.37"
           height="8"
           fill="#DA3434"
         />
@@ -158,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="193.59"
+          x="211.01"
           y="0"
-          width="31.26"
+          width="27.52"
           height="8"
           fill="#dea584"
         />
@@ -168,21 +178,11 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="224.85"
+          x="238.53"
           y="0"
-          width="13.02"
+          width="11.46"
           height="8"
           fill="#F05138"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="237.87"
-          y="0"
-          width="12.12"
-          height="8"
-          fill="#3178c6"
         />
       
       
@@ -191,42 +191,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dart 36.00%
+        Dart 31.69%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 25.83%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#DA3434" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake 15.62%
-      </text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 12.50%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#F05138" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Swift 5.21%
+        C++ 22.74%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 4.85%
+        TypeScript 16.23%
+      </text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#DA3434" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        CMake 13.75%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Rust 11.01%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#F05138" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Swift 4.58%
       </text>
     </g>
   </g></g>
