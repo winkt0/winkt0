@@ -49,6 +49,14 @@ jobs:
           path: profile/mucron-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate quiQR card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=winkt0&repo=quiQR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          path: profile/quiQR-card.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate YIN card
         uses: readme-tools/github-readme-stats-action@v1
         with:

@@ -18,6 +18,7 @@ I also like to play chess and some instruments, cook, do powerlifting, go hiking
   <table align="center">
     <p align="left" dir="auto">
       <a href="https://github.com/winkt0/mucron"><img width="250" height="100" src="./profile/mucron-card.svg" alt="mucron"></a>
+      <a href="https://github.com/winkt0/quiQR"><img width="250" height="100" src="./profile/quiQR-card.svg" alt="quiQR"></a>
       <a href="https://github.com/winkt0/yin_rs"><img width="250" height="100" src="./profile/yin-card.svg" alt="yin_rs"></a>
       <a href="https://github.com/winkt0/biggest"><img width="250" height="100" src="./profile/biggest-card.svg" alt="biggest"></a>
       <a href="https://github.com/winkt0/anyTeX"><img width="250" height="100" src="./profile/anyTeX-card.svg" alt="anyTeX"></a>
