@@ -6,11 +6,11 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I'm%20winkt0.;I%20like%20make%20computer%20do%20thing%20:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-- 🔭 I believe that meaning is found by paying attention to detail, and that's what programming is all about - thinking deeply about something.
+I believe that meaning is found by paying attention to detail, and that's what programming is all about - thinking deeply about something.
 
-- 👨‍💻 Academically, I'm interested in Dynamical Systems, Signal Processing and Software Engineering. I also like to play chess and some instruments, cook, do powerlifting, go hiking and read :)
+Academically, I'm interested in Dynamical Systems, Signal Processing and Software Engineering. I also like to play chess and some instruments, cook, do powerlifting, go hiking and read :)
 
-- 📕 My latest post: [(Sustained) Attention Is All You Need](https://winkt0.substack.com/p/sustained-attention-is-all-you-need)
+📕 My latest post: [(Sustained) Attention Is All You Need](https://winkt0.substack.com/p/sustained-attention-is-all-you-need)
 
 <br/>
 
