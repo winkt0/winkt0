@@ -8,7 +8,7 @@
 
 I believe that meaning is found by paying attention to detail, and that's what programming is all about - thinking deeply about something.
 
-Academically, I'm interested in Dynamical Systems, Signal Processing and Software Engineering. I also like to play chess and some instruments, cook, do powerlifting, go hiking and read :)
+Academically, I'm interested in Dynamical Systems, Signal Processing and Software Engineering. I also like to play chess and some instruments, cook, do powerlifting, go hiking, read and write :)
 
 📕 My latest post: [(Sustained) Attention Is All You Need](https://winkt0.substack.com/p/sustained-attention-is-all-you-need)
 
