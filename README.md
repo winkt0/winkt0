@@ -17,16 +17,34 @@ Academically, I'm interested in Dynamical Systems, Signal Processing and Softwar
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
 
-  <table align="center">
-    <p align="left" dir="auto">
-      <a href="https://github.com/winkt0/mucron"><img width="250" height="100" src="./profile/mucron-card.svg" alt="mucron"></a>
-      <a href="https://github.com/winkt0/quiQR"><img width="250" height="100" src="./profile/quiQR-card.svg" alt="quiQR"></a>
-      <a href="https://github.com/winkt0/yin_rs"><img width="250" height="100" src="./profile/yin-card.svg" alt="yin_rs"></a>
-      <a href="https://github.com/winkt0/biggest"><img width="250" height="100" src="./profile/biggest-card.svg" alt="biggest"></a>
+  <details>
+    <summary><img src="https://img.shields.io/badge/-CLI Tools & Libraries-1F222E?&logo=Rust&logoColor=e95e2f"></summary>
+    <table align="center">
+      <p align="left" dir="auto">
+        <a href="https://github.com/winkt0/yin_rs"><img width="250" height="100" src="./profile/yin-card.svg" alt="yin_rs"></a>
+        <a href="https://github.com/winkt0/biggest"><img width="250" height="100" src="./profile/biggest-card.svg" alt="biggest"></a>
+      </p>
+    </table>
+  </details>
+
+  <details>
+    <summary><img src="https://img.shields.io/badge/-GUI Applications (for Signal Analysis) -02569B?&logo=Flutter"></summary>
+    <table align="center">
+      <p align="left" dir="auto">
+        <a href="https://github.com/winkt0/mucron"><img width="250" height="100" src="./profile/mucron-card.svg" alt="mucron"></a>
+      </p>
+    </table>
+  </details>
+
+  <details>
+    <summary><img src="https://img.shields.io/badge/-Browser Extensions-3178C6?&logo=typescript&logoColor=fff"></summary>
+    <table align="center">
+      <p align="left" dir="auto">
+        <a href="https://github.com/winkt0/quiQR"><img width="250" height="100" src="./profile/quiQR-card.svg" alt="quiQR"></a>
       <a href="https://github.com/winkt0/anyTeX"><img width="250" height="100" src="./profile/anyTeX-card.svg" alt="anyTeX"></a>
-      <a href="https://github.com/winkt0/fcard"><img width="250" height="100" src="./profile/fcard-card.svg" alt="fcard"></a>
-    </tr>
-  </table>
+      </p>
+    </table>
+  </details>
 
   <a href="https://github.com/winkt0?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
