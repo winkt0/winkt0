@@ -8,14 +8,14 @@
 
 I believe that meaning is found by paying attention to detail, and that's what programming is all about - thinking deeply about something.
 
-Academically, I'm interested in Dynamical Systems, Signal Processing, Information Compression and Software Engineering. I also like to play chess and some instruments, cook, do powerlifting, go hiking, read and write :)
+Academically, I'm interested in Dynamical Systems, Signal Processing, Information Compression, Theoretical Neuroscience and Software Engineering. I also like to play chess and some instruments, cook, do powerlifting, go hiking, read and write.
 
 📕 My latest post: [(Sustained) Attention Is All You Need](https://winkt0.substack.com/p/sustained-attention-is-all-you-need)
 
 <br/>
 
 <details open> 
-  <summary><h2>📘 My Projects</h2></summary>
+  <summary><h2>📘 Stuff I made</h2></summary>
 
   <details>
     <summary><picture><img src="https://img.shields.io/badge/-CLI Tools & Libraries-1F222E?&logo=Rust&logoColor=e95e2f" alt=""></picture>&#8203;</summary>
@@ -61,18 +61,18 @@ Academically, I'm interested in Dynamical Systems, Signal Processing, Informatio
 </details>
 
 <details open> 
-  <summary><h2>🛠️ Tech Stack</h2></summary>
+  <summary><h2>🛠️ Tech I like</h2></summary>
 
-  <h3>👨‍💻 Programming and Markup Languages </h3>
+  <h3>👨‍💻 Languages </h3>
 
   <p>
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=rust,python,java,javascript,dart,bash,css,html,tex,markdown,sql,matlab&titles=true"/>
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=rust,cpp,python,java,typescript,dart,tex,markdown,sql,matlab&titles=true"/>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=wicket,flutter,bootstrap,electron,scikitlearn,spring&titles=true"/>
+    <img src="https://skill-icons-fast.vercel.app/api/icons?i=wicket,flutter,bootstrap,electron,scikitlearn,numpy,pytorch,spring&titles=true"/>
   </p>
 
   <h3>🗄️ Databases, Cloud Hosting, DevOps</h3>
@@ -89,19 +89,12 @@ Academically, I'm interested in Dynamical Systems, Signal Processing, Informatio
 </details>
 
 <details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
+  <summary><h2>📊 Stats</h2></summary>
   
   ![Streak](./profile/streak.svg)
-
-  <h3>💻 GitHub Profile Stats</h3>
-  
   ![Top Languages](./profile/top-langs.svg)
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="winkt0's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=winkt0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 
