@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">winkt0's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 108, Total PRs: 8, Total Issues: 4, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 108, Total PRs: 8, Total Issues: 5, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 239.5118244416585;
+        stroke-dashoffset: 238.99923155248223;
       }
     }
   
@@ -196,7 +196,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >4</text>
+      >5</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
