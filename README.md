@@ -12,6 +12,8 @@ Academically, I'm interested in Dynamical Systems, Signal Processing, Informatio
 
 📕 My latest post: [(Sustained) Attention Is All You Need](https://winkt0.substack.com/p/sustained-attention-is-all-you-need)
 
+📄 GitHub pages: [Dynamical Systems Visualizer in the web](https://winkt0.github.io/dynamical-systems-visualizer/)
+
 <br/>
 
 <details> 
