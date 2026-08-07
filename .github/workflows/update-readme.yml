@@ -31,21 +31,12 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Generate streak stats
-        uses: be-next/github-streak-stats-action@v1
-        with:
-          username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: profile/streak.svg
-          theme: radical
-          hide-border: true
-      
       # Project cards
       - name: Generate mucron card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=winkt0&repo=mucron&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          options: username=winkt0&repo=mucron&show_owner=true&description_lines_count=3&theme=github_dark
           path: profile/mucron-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -53,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=winkt0&repo=quiQR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          options: username=winkt0&repo=quiQR&show_owner=true&description_lines_count=3&theme=github_dark
           path: profile/quiQR-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -61,7 +52,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=winkt0&repo=yin_rs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          options: username=winkt0&repo=yin_rs&show_owner=true&description_lines_count=3&theme=github_dark
           path: profile/yin-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
@@ -69,7 +60,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=winkt0&repo=biggest&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          options: username=winkt0&repo=biggest&show_owner=true&description_lines_count=3&theme=github_dark
           path: profile/biggest-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
@@ -77,7 +68,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=winkt0&repo=anyTeX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          options: username=winkt0&repo=anyTeX&show_owner=true&description_lines_count=3&theme=github_dark
           path: profile/anyTeX-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -85,7 +76,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=winkt0&repo=fcard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          options: username=winkt0&repo=fcard&show_owner=true&description_lines_count=3&theme=github_dark
           path: profile/fcard-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -93,7 +84,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=TheAlgorithms&repo=rust&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          options: username=TheAlgorithms&repo=rust&show_owner=true&description_lines_count=3&theme=github_dark
           path: profile/rust-algos-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -101,7 +92,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=imi-ms&repo=MoPat&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866
+          options: username=imi-ms&repo=MoPat&show_owner=true&description_lines_count=3&theme=github_dark
           path: profile/mopat-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
