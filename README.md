@@ -89,16 +89,6 @@ Academically, I'm interested in Dynamical Systems, Signal Processing, Informatio
   </p>
 </details>
 
-<details> 
-  <summary><h2>📊 Stats</h2></summary>
-  
-  ![Streak](./profile/streak.svg)
-  ![Top Languages](./profile/top-langs.svg)
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-</details>
-
 
 <!--
 **winkt0/winkt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
