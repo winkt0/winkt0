@@ -1,8 +1,6 @@
 
-|  |  |
-| :------ | ----: |
-| ![Stats](./profile/stats.svg) | ![Top Languages](./profile/top-langs.svg) |
-|  |  |
+
+![Stats](./profile/stats.svg) ![Top Languages](./profile/top-langs.svg)
 </table>
 
 I believe that meaning is found by paying attention to detail, and that's what programming is all about - thinking deeply about something.
