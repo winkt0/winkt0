@@ -17,6 +17,15 @@ Academically, I'm interested in Dynamical Systems, Signal Processing, Informatio
   <summary><h2>📘 Stuff I made</h2></summary>
 
   <details>
+    <summary><picture><img src="https://img.shields.io/badge/--1F222E?&logo=githubpages&logoColor=white&logoSize=auto" alt=""></picture>&#8203;</summary>
+    <table align="center">
+      <p align="left" dir="auto">
+        <a href="https://github.com/winkt0/dynamical-systems-visualizer"><img width="250" height="100" src="./profile/dynamical-systems-visualizer.svg" alt="dynamical-systems-visualizer"></a>
+      </p>
+    </table>
+  </details>
+
+  <details>
     <summary><picture><img src="https://img.shields.io/badge/-CLI Tools & Libraries-1F222E?&logo=Rust&logoColor=e95e2f" alt=""></picture>&#8203;</summary>
     <table align="center">
       <p align="left" dir="auto">
