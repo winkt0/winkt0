@@ -56,6 +56,14 @@ jobs:
           path: profile/yin-card.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
+      - name: Generate traxtract card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=winkt0&repo=traxtract&show_owner=true&description_lines_count=3&theme=github_dark
+          path: profile/traxtract-card.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
       - name: Generate biggest card
         uses: stats-organization/github-readme-stats-action@v2
         with:

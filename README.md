@@ -22,6 +22,7 @@ Academically, I'm interested in Dynamical Systems, Signal Processing, Informatio
       <p align="left" dir="auto">
         <a href="https://github.com/winkt0/yin_rs"><img width="250" height="100" src="./profile/yin-card.svg" alt="yin_rs"></a>
         <a href="https://github.com/winkt0/biggest"><img width="250" height="100" src="./profile/biggest-card.svg" alt="biggest"></a>
+        <a href="https://github.com/winkt0/traxtract"><img width="250" height="100" src="./profile/traxtract-card.svg" alt="traxtract"></a>
       </p>
     </table>
   </details>
