@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">winkt0&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 135, Total PRs: 9, Total PRs Merged: 5, Merged PRs Percentage: 55.56, Total PRs Reviewed: 0, Total Issues: 6, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 1, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 135, Total PRs: 10, Total PRs Merged: 5, Merged PRs Percentage: 50.00, Total PRs Reviewed: 0, Total Issues: 6, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 1, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 237.00581225187014;
+        stroke-dashoffset: 236.242252367493;
       }
     }
   
@@ -167,7 +167,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >9</text>
+      >10</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -197,7 +197,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >55.56 %</text>
+      >50.00 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -287,7 +287,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >5</text>
     </g>
   </g>
     </svg>
