@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">winkt0&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 135, Total PRs: 10, Total PRs Merged: 5, Merged PRs Percentage: 50.00, Total PRs Reviewed: 0, Total Issues: 6, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 1, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 135, Total PRs: 10, Total PRs Merged: 5, Merged PRs Percentage: 50.00, Total PRs Reviewed: 0, Total Issues: 6, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 2, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -272,7 +272,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues_commented"
-      >1</text></a>
+      >2</text></a>
     </g>
   </g><g transform="translate(0, 250)">
     <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)">
