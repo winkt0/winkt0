@@ -1,121 +1,121 @@
 name: Update README cards
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    schedule:
+        - cron: "*/30 * * * *"
+    workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+    build:
+        runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
+        permissions:
+            contents: write
 
-    steps:
-      - uses: actions/checkout@v6
+        steps:
+            - uses: actions/checkout@v6
 
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&hide_title=true&hide_rank=true&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate stats card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: stats
+                  options: username=${{ github.repository_owner }}&hide_title=true&hide_rank=true&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark
+                  path: profile/stats.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&exclude_repo=alrnn-marl&layout=donut&langs_count=6&theme=github_dark
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
-      # Project cards
-      - name: Generate Dynamical Systems Visualizer card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=winkt0&repo=dynamical-systems-visualizer&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/dynamical-systems-visualizer-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate top languages card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: top-langs
+                  options: username=${{ github.repository_owner }}&hide=html&layout=donut&langs_count=6&theme=github_dark
+                  path: profile/top-langs.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate mucron card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=winkt0&repo=mucron&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/mucron-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            # Project cards
+            - name: Generate Dynamical Systems Visualizer card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=winkt0&repo=dynamical-systems-visualizer&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/dynamical-systems-visualizer-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate quiQR card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=winkt0&repo=quiQR&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/quiQR-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate mucron card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=winkt0&repo=mucron&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/mucron-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate YIN card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=winkt0&repo=yin_rs&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/yin-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Generate traxtract card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=winkt0&repo=traxtract&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/traxtract-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Generate biggest card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=winkt0&repo=biggest&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/biggest-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Generate anyTeX card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=winkt0&repo=anyTeX&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/anyTeX-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate quiQR card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=winkt0&repo=quiQR&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/quiQR-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate fcard card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=winkt0&repo=fcard&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/fcard-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate YIN card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=winkt0&repo=yin_rs&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/yin-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Rust algos card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=TheAlgorithms&repo=rust&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/rust-algos-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate traxtract card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=winkt0&repo=traxtract&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/traxtract-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate mopat card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=imi-ms&repo=MoPat&show_owner=true&description_lines_count=3&theme=github_dark
-          path: profile/mopat-card.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate biggest card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=winkt0&repo=biggest&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/biggest-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+            - name: Generate anyTeX card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=winkt0&repo=anyTeX&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/anyTeX-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Generate fcard card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=winkt0&repo=fcard&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/fcard-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Generate Rust algos card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=TheAlgorithms&repo=rust&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/rust-algos-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Generate mopat card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                  card: pin
+                  options: username=imi-ms&repo=MoPat&show_owner=true&description_lines_count=3&theme=github_dark
+                  path: profile/mopat-card.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Commit cards
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions@users.noreply.github.com"
+                  git add profile/*.svg
+                  git commit -m "Update README cards" || exit 0
+                  git push
