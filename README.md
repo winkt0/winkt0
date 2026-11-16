@@ -1,114 +1,34 @@
+I believe that meaning is found by paying attention to detail, and that's what
+programming is all about - thinking deeply about something.
 
+Academically, I'm interested in Dynamical Systems, Signal Processing,
+Information Compression, Theoretical Neuroscience and Software Engineering. I
+also like to play chess and some instruments, cook, do powerlifting, go hiking,
+read and write.
 
-![Stats](./profile/stats.svg) ![Top Languages](./profile/top-langs.svg)
-</table>
+Most of my projects here are utilities to smoothe my experience of interacting
+with computers.
 
-I believe that meaning is found by paying attention to detail, and that's what programming is all about - thinking deeply about something.
+- I'm working on [annotabene](https://github.com/winkt0/annotabene), a browser
+  annotation tool to create persistent notes on text (right-click text ->
+  annotate it -> review it later)
+- Listening to music is a solved problem with its abundance on the internet, so
+  my focus shifted more on how to manage knowledge of which songs I like (read:
+  have a library without streaming).
+  [muselib](https://github.com/winkt0/muselib) should ultimately help with
+  extracting information from your playlists and managing such a digital library
+- For a while, I dabbled in fundamental pitch estimation, resulting in a
+  [Rust implementation of the YIN algorithm](https://github.com/winkt0/yin_rs)
+  (which has also found its way into
+  [TheAlgorithms/Rust](href="https://github.com/TheAlgorithms/Rust")) and a
+  [Flutter GUI project](https://github.com/winkt0/mucron) serving as a sort of
+  digital tuner and estimator for recorded notes
+- For another while, I worked a lot with Dynamical Systems, so I set up a
+  [page to visualize them](https://github.com/winkt0/dynamical-systems-visualizer)
+- Find the [biggest](https://github.com/winkt0/biggest) folders on within your
+  CWD
+- Split playlists into individual tracks via
+  [traxtract](https://github.com/winkt0/traxtract)
 
-Academically, I'm interested in Dynamical Systems, Signal Processing, Information Compression, Theoretical Neuroscience and Software Engineering. I also like to play chess and some instruments, cook, do powerlifting, go hiking, read and write.
-
-📕 My latest post: [(Sustained) Attention Is All You Need](https://winkt0.substack.com/p/sustained-attention-is-all-you-need)
-
-📄 GitHub pages: [Dynamical Systems Visualizer in the web](https://winkt0.github.io/dynamical-systems-visualizer/)
-
-<br/>
-
-<details> 
-  <summary><h2>📘 Stuff I made</h2></summary>
-
-  <details>
-    <summary><picture><img src="https://img.shields.io/badge/--1F222E?&logo=githubpages&logoColor=white&logoSize=auto" alt=""></picture>&#8203;</summary>
-    <table align="center">
-      <p align="left" dir="auto">
-        <a href="https://github.com/winkt0/dynamical-systems-visualizer"><img width="250" height="100" src="./profile/dynamical-systems-visualizer.svg" alt="dynamical-systems-visualizer"></a>
-      </p>
-    </table>
-  </details>
-
-  <details>
-    <summary><picture><img src="https://img.shields.io/badge/-CLI Tools & Libraries-1F222E?&logo=Rust&logoColor=e95e2f" alt=""></picture>&#8203;</summary>
-    <table align="center">
-      <p align="left" dir="auto">
-        <a href="https://github.com/winkt0/yin_rs"><img width="250" height="100" src="./profile/yin-card.svg" alt="yin_rs"></a>
-        <a href="https://github.com/winkt0/biggest"><img width="250" height="100" src="./profile/biggest-card.svg" alt="biggest"></a>
-        <a href="https://github.com/winkt0/traxtract"><img width="250" height="100" src="./profile/traxtract-card.svg" alt="traxtract"></a>
-      </p>
-    </table>
-  </details>
-
-  <details>
-    <summary><picture><img src="https://img.shields.io/badge/-GUI Applications (for Signal Analysis) -02569B?&logo=Flutter" alt=""></picture>&#8203;</summary>
-    <table align="center">
-      <p align="left" dir="auto">
-        <a href="https://github.com/winkt0/mucron"><img width="250" height="100" src="./profile/mucron-card.svg" alt="mucron"></a>
-      </p>
-    </table>
-  </details>
-
-  <details>
-    <summary><picture><img src="https://img.shields.io/badge/-Browser Extensions-3178C6?&logo=typescript&logoColor=fff" alt=""></picture>&#8203;</summary>
-    <table align="center">
-      <p align="left" dir="auto">
-        <a href="https://github.com/winkt0/quiQR"><img width="250" height="100" src="./profile/quiQR-card.svg" alt="quiQR"></a>
-      <a href="https://github.com/winkt0/anyTeX"><img width="250" height="100" src="./profile/anyTeX-card.svg" alt="anyTeX"></a>
-      </p>
-    </table>
-  </details>
-
-  <a href="https://github.com/winkt0?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-<details> 
-  <summary><h2>📕 Projects I've Contributed To</h2></summary>
-
-  <table align="center">
-    <p align="left" dir="auto">
-        <a href="https://github.com/TheAlgorithms/Rust"><img width="250" height="100" src="./profile/rust-algos-card.svg" alt="TheAlgorithms/Rust"></a>
-        <a href="https://github.com/imi-ms/MoPat"><img width="250" height="100" src="./profile/mopat-card.svg" alt="imi-ms/MoPat"></a>
-    </p>
-  </table>
-</details>
-
-<details> 
-  <summary><h2>🛠️ Tech I like</h2></summary>
-
-  <h3>👨‍💻 Languages </h3>
-
-  <p>
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=rust,cpp,python,java,typescript,dart,tex,markdown,sql,matlab&titles=true"/>
-  </p>
-
-  <h3>🧰 Frameworks and Libraries</h3>
-
-  <p>
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=wicket,flutter,bootstrap,electron,scikitlearn,numpy,pytorch,spring&titles=true"/>
-  </p>
-
-  <h3>🗄️ Databases, Cloud Hosting, DevOps</h3>
-
-  <p>
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=docker,jenkins,solr,postgresql,gitlab&titles=true"/>
-  </p>
-
-  <h3>💻 Software and Tools</h3>
-
-  <p>
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=cachyos,brave,vivaldi,jupyter,vscodium&titles=true"/>
-  </p>
-</details>
-
-
-<!--
-**winkt0/winkt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📕 I like to write:
+[(Sustained) Attention Is All You Need](https://winkt0.substack.com/p/sustained-attention-is-all-you-need)
