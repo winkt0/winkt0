@@ -15,20 +15,20 @@ with computers.
 - Listening to music is a solved problem with its abundance on the internet, so
   my focus shifted more on how to manage knowledge of which songs I like (read:
   have a library without streaming).
-  [muselib](https://github.com/winkt0/muselib) should ultimately help with
-  extracting information from your playlists and managing such a digital library
+  [muselib](https://github.com/winkt0/muselib) is my browser extension to help
+  with extracting information from your playlists and managing such a digital
+  library. [traxtract](https://github.com/winkt0/traxtract) should help with
+  actually extracting individual songs from playlists locally
 - For a while, I dabbled in fundamental pitch estimation, resulting in a
   [Rust implementation of the YIN algorithm](https://github.com/winkt0/yin_rs)
   (which has also found its way into
-  [TheAlgorithms/Rust](href="https://github.com/TheAlgorithms/Rust")) and a
-  [Flutter GUI project](https://github.com/winkt0/mucron) serving as a sort of
-  digital tuner and estimator for recorded notes
+  [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)) and
+  [mucron](https://github.com/winkt0/mucron), a GUI written in Flutter serving
+  as a sort of digital tuner and estimator for recorded notes
 - For another while, I worked a lot with Dynamical Systems, so I set up a
-  [page to visualize them](https://github.com/winkt0/dynamical-systems-visualizer)
+  [page to visualize them](https://winkt0.github.io/dynamical-systems-visualizer/)
 - Find the [biggest](https://github.com/winkt0/biggest) folders on within your
   CWD
-- Split playlists into individual tracks via
-  [traxtract](https://github.com/winkt0/traxtract)
 
 📕 I like to write:
 [(Sustained) Attention Is All You Need](https://winkt0.substack.com/p/sustained-attention-is-all-you-need)
